@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Davronbek Latibjonov <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rtue39bfx62k9lfa707kxi2sgfh9n6jbs8oazyiz&rid=giphy.gif&ct=s" width="27"/>
+
 
 <!--
 **Davronbek2000/Davronbek2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
