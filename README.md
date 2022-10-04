@@ -1,5 +1,7 @@
 ### Hi, I'm Davronbek Latibjonov <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47rtue39bfx62k9lfa707kxi2sgfh9n6jbs8oazyiz&rid=giphy.gif&ct=s" width="40"/>
 
+I’m currently learning Javascript and React! <br/>
+Contact me on telegram: <img src="https://image.similarpng.com/very-thumbnail/2021/01/Telegram-icon-on-transparent-background-PNG.png"/>
 
 <!--
 - 🔭 I’m currently working on ...
