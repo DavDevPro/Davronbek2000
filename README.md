@@ -7,8 +7,8 @@ I’m currently learning Javascript and React! <br/>
 <br/> <br/>
 Languages and tools I work with:
 HTML, CSS, BOOTSTRAP, SCSS, JAVASCRIPT
-<br/>
-My current location: Andijan, Uzbekistan.
+<br/><br/>
+My current location: Tashkent, Uzbekistan.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
