@@ -4,10 +4,10 @@ I’m currently learning Javascript and React! <br/>
 <br/>
 Contact me on telegram: 
 <a href="https://t.me/Abu_turob_001"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width="25px"/><a/>
+<br/> <br/>
+### Languages and tools I work with: HTML, CSS, BOOTSTRAP, SCSS, JAVASCRIPT
 <br/>
-Languages and tools I work with: ### HTML, CSS, BOOTSTRAP, SCSS, JAVASCRIPT
-<br/>
-My current location: ### Andijan, Uzbekistan.
+My current location: Andijan, Uzbekistan.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
