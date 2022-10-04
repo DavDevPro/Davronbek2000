@@ -6,7 +6,7 @@ I’m currently learning Javascript and React! <br/>
 <a href="https://t.me/Abu_turob_001"><img src="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" width="20px"/><a/> 
 <br/> <br/>
 Languages and tools I work with:
-HTML, CSS, BOOTSTRAP, SCSS, JAVASCRIPT
+<strong>HTML, CSS, BOOTSTRAP, SCSS, JAVASCRIPT<strong>
 <br/><br/>
 My current location: Tashkent, Uzbekistan.
 <!--
